@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title {
+    width: 100px;
+    height: 10px;
+    display: flex;
+    align-items: center;
+    font-size: 3em;
+    color: blue;
+}
